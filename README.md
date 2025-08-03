@@ -1,3 +1,3 @@
 # Terraform Provider for DanneCloud
 
-> This project is currently under development, but a release of the provider will be made available once DanneCloud transitions into public beta.
+> DanneCloud is currently under development, but a release of the Terraform Provider will be made available once the project transitions into public beta.
